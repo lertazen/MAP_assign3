@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Quiz_App</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- These strings are for the question bank   -->
+    <string name="question_1">The French Revolution began in 1800.</string>
+    <string name="question_2">The American Civil War lasted from 1861 to 1865.</string>
+    <string name="question_3">The Great Wall of China was built to protect the country from monsters.</string>
+    <string name="question_4">Cleopatra was the last pharaoh of ancient Egypt.</string>
+    <string name="question_5">The Industrial Revolution began in England during the 19th century.</string>
+    <string name="question_6">The Berlin Wall fell in 1989, marking the end of the Cold War.</string>
+    <string name="question_7">Napoleon Bonaparte was the Emperor of France in the early 18th century.</string>
+    <string name="question_8">The Declaration of Independence was signed on July 4, 1776.</string>
+    <string name="question_9">The Renaissance was a period of cultural and intellectual rebirth in Asia.</string>
+    <string name="question_10">Joan of Arc was a key figure during the Hundred Years\' War.</string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+
+    <!-- These are the strings for toasts indicating the correctness of each answer   -->
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+
+    <!-- These are the strings used in question result dialog -->
+    <string name="result_dialog_title">Quiz Result</string>
+    <string name="button_save">Save</string>
+    <string name="button_ignore">Ignore</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="dialog_message">Your score is: </string>
+    <string name="dialog_enter_number">Enter the number of questions less than </string>
+    <string name="invalid_number">Invalid question count</string>
+
+    <!-- These are the strings used in the toast of saving the quiz result to the internal storage -->
+    <string name="save_success">Quiz results saved.</string>
+    <string name="save_fail">Failed to save quiz results</string>
+
+    <!-- These are the strings used in the toast of reset results history -->
+    <string name="reset_success">Quiz results cleared.</string>
+    <string name="reset_fail">Failed to clear quiz results.</string>
+
+    <!-- These are the strings used in get average menu selection -->
+    <string name="read_fail">Failed to read quiz results.</string>
+    <string name="read_empty">No quiz results found.</string>
+    <string name="history_message">Your correct answers / total number of questions = </string>
+    <string name="button_ok">OK</string>
+    <string name="history_title">Quiz Average</string>
+
+    <!-- These are the strings in overflow menu -->
+    <string name="get_average">Get The Average</string>
+    <string name="change_number">Select the number of Question</string>
+    <string name="reset_history">Reset the saved Result</string>
+
+</resources>

@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Applicaion de Quiz</string>
+    <string name="first_fragment_label">Premier Fragment</string>
+    <string name="second_fragment_label">Deuxième Fragment</string>
+    <string name="next">Suivant</string>
+    <string name="previous">Précédent</string>
+
+    <string name="question_1">La Révolution française a commencé en 1800.</string>
+    <string name="question_2">La Guerre de Sécession américaine a duré de 1861 à 1865.</string>
+    <string name="question_3">La Grande Muraille de Chine a été construite pour protéger le pays des monstres.</string>
+    <string name="question_4">Cléopâtre était la dernière pharaonne de l\'Égypte ancienne.</string>
+    <string name="question_5">La Révolution industrielle a commencé en Angleterre au cours du 19e siècle.</string>
+    <string name="question_6">Le Mur de Berlin est tombé en 1989, marquant la fin de la Guerre froide.</string>
+    <string name="question_7">Napoléon Bonaparte était l\'Empereur de France au début du 18e siècle.</string>
+    <string name="question_8">La Déclaration d\'indépendance a été signée le 4 juillet 1776.</string>
+    <string name="question_9">La Renaissance était une période de renaissance culturelle et intellectuelle en Asia.</string>
+    <string name="question_10">Jeanne d\'Arc était une figure clé pendant la Guerre de Cent Ans.</string>
+    <string name="button_true">True</string>
+    <string name="button_false">FAUX</string>
+
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+
+    <string name="result_dialog_title">Résultat du Quiz</string>
+    <string name="button_save">Sauvegarder</string>
+    <string name="button_ignore">Ignorer</string>
+    <string name="button_cancel">Annuler</string>
+    <string name="dialog_message">Ton score est</string>
+    <string name="dialog_enter_number">Entrer le nombre de questions inférieur à</string>
+    <string name="invalid_number">Nombre de questions invalides</string>
+
+    <string name="save_success">Résultats du quiz enregistrés</string>
+    <string name="save_fail">échec de l\'enregistrement des résultats du quiz</string>
+
+    <string name="reset_success">Résultats du quiz effacés</string>
+    <string name="reset_fail">N\'a pas réussi à effacer les résultats du quiz</string>
+
+    <string name="read_fail">N\'a pas pu lire les résultats du quiz</string>
+    <string name="read_empty">Aucun résultat de quiz trouvé</string>
+    <string name="history_message">Vos bonnes réponses / nombre total de questions =</string>
+    <string name="button_ok">D\'accord</string>
+    <string name="history_title">Moyenne du questionnaire</string>
+
+    <string name="get_average">Obtenir la moyenne</string>
+    <string name="change_number">Sélectionner le nombre de questions</string>
+    <string name="reset_history">Réinitialiser les résultats enregistrés</string>
+
+
+</resources>
